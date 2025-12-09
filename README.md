@@ -47,7 +47,7 @@
 
 ### 第一步：获取与复制模版
 
-1. 登录 [Coze 官网](https://www.coze.cn/)，在左侧“模板商店”搜索关键词 **“AI电影解说”**。
+1. 登录 [Coze 官网](https://www.coze.cn/](https://www.coze.cn/template/project/7573615119331213366?)，在左侧“模板商店”搜索关键词 **“AI电影解说”**。
     <br>
     <img width="100%" alt="第一步" src="https://github.com/user-attachments/assets/82e005be-f47a-431c-a878-ca3ae3a5f1ec" />
     <br>
