@@ -45,6 +45,10 @@
 
 本模版依赖 **MySQL 数据库** 来保存用户数据和 Key 管理。请务必按照以下步骤操作，否则应用无法运行。
 
+> #### Before installing Dify，make sure your machine meets the following minimum system requirements：
+> - FPU >= 2 Core
+> - RAM >= 4 GiB
+
 ### 第一步：获取与复制模版
 
 1. 登录 [Coze 官网](https://www.coze.cn/template/project/7573615119331213366?)，在左侧“模板商店”搜索关键词 **“AI电影解说”**。
